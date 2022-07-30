@@ -36,10 +36,13 @@
     height:auto;
     min-width: 256px;
     border:solid 3px #a27d26;
-    display:flex;
-    flex-wrap: wrap;
-    
-    
+    }
+    section.main-tienda {
+        color: white;
+        font-size: 10px;
+        height: 929px
+        
+        
     }
     main section h2{
     text-align:center;
@@ -104,8 +107,9 @@
     font-size:10px;
     }
     footer{
-    position: relative;
-    bottom: 2rem;
+    background-color: #282d24;
     font-size: 12px;
     color:white;
+    height: 25px;
+    
     }
